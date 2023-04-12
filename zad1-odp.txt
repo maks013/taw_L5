@@ -1,0 +1,5 @@
+Aplikacja wydrukowała komunikat "new connection" w konsoli za pomocą metody console.log(). 
+Ta metoda jest wbudowaną funkcją w środowisko Node.js i służy do wyświetlania tekstu w konsoli. 
+W tym przypadku, funkcja console.log() jest wywoływana w callbacku przekazanym do metody server.on(), 
+która zostaje wywołana za każdym razem, gdy nawiązane zostanie nowe połączenie ze stroną internetową. 
+W ten sposób, każde połączenie spowoduje wydrukowanie tekstu "new connection" w konsoli.
