@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f3c19e3a-443f-4da0-ad32-e319fb004f9f" name="Changes" comment="lab_09" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="lab_09" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2PcXIIBANMijL3ub1ee5gmcVPHg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../taw_L5-AnitaZ-lab9_AnitaZ/Anita_Zych-lab9" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\IntelliJ IDEA 2021.2.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\studia\3rok\II - semestr\TAW\taw_L5" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/server/app/app.js" working-dir="$PROJECT_DIR$/server/app">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.app.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f3c19e3a-443f-4da0-ad32-e319fb004f9f" name="Changes" comment="" />
+      <created>1683757261683</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683757261683</updated>
+      <workItem from="1683757263290" duration="41000" />
+      <workItem from="1683757316799" duration="1280000" />
+      <workItem from="1683833825355" duration="260000" />
+      <workItem from="1683988809438" duration="609000" />
+      <workItem from="1683994407582" duration="1695000" />
+      <workItem from="1684963365084" duration="5828000" />
+      <workItem from="1684969416732" duration="4065000" />
+      <workItem from="1685017568749" duration="886000" />
+    </task>
+    <task id="LOCAL-00001" summary="lab_07">
+      <created>1683834035700</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683834035700</updated>
+    </task>
+    <task id="LOCAL-00002" summary="lab_08">
+      <created>1683998671360</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1683998671360</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added lab_06 and removed TAW Lab_6 fork">
+      <created>1684963773089</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1684963773089</updated>
+    </task>
+    <task id="LOCAL-00004" summary="lab_09">
+      <created>1684969686533</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1684969686533</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/zadanie-1/rectangle.js" />
+        <option value="$PROJECT_DIR$/zadanie-2/rectangle.js" />
+        <option value="$PROJECT_DIR$/zadanie-3/blog/node_modules/karma/config.tpl.js" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lab_07" />
+    <MESSAGE value="lab_08" />
+    <MESSAGE value="added lab_06 and removed TAW Lab_6 fork" />
+    <MESSAGE value="lab_09" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab_09" />
+  </component>
+</project>
