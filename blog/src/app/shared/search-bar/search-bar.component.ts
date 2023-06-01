@@ -24,14 +24,14 @@ export class SearchBarComponent implements OnInit {
   }
 
 
-  sendFilter() {
-    this.router.navigate(['/'], {
+  sendFilter(): void {
+    this.name.emit(this.filterText);
+    this.router.navigate(['/blog'], {
       queryParams: {
         name:
         this.filterText
       }
     });
-    this.name.emit(this.filterText);
   }
 
 }

@@ -1,10 +1,10 @@
 import bodyParser from 'body-parser';
-import config from './config';
+import config from './config.js';
 import cors from 'cors';
 import express from 'express';
 import mongoose from 'mongoose';
 import morgan from 'morgan';
-import routes from './REST/routes';
+import routes from './REST/routes.js';
 
 const app = express();
 app.use(express.static(__dirname + '/public'));
